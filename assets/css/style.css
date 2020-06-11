@@ -1,0 +1,115 @@
+.navbar-brand {
+    font-family: 'Francois One', sans-serif;
+    font-size: 20pt;
+}
+
+.nav-link {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+}
+
+.hero h1 {
+    font-family: 'Francois One', sans-serif;
+    font-size: 63pt;
+    text-shadow: 2px 2px #000000;
+}
+
+.hero p {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 30pt;
+    text-shadow: 1px 1px #000000;
+}
+
+.hero-section {
+    margin-top: 15rem;
+}
+
+header {
+    background-image: url('../img/bg11.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    /*padding-bottom: 10rem;*/
+}
+
+.acerca h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    text-align: justify;
+}
+
+.acerca p {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    text-align: justify;
+}
+
+.experiencia h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+}
+
+.experiencia h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+}
+
+.experiencia p {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    text-align: center;
+}
+
+.carousel-indicators li {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: #373A3C;
+}
+
+.carousel-indicators {
+    top: 300px;
+}
+
+.trabajos h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+}
+
+@media (max-width: 767.98px) {
+    .carousel-indicators {
+        top: 1000px;
+    }
+ }
+
+.trabajos h5 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+}
+
+.trabajos p {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    text-align: justify;
+}
+
+.btn-dark {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+}
+
+.contacto h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+}
+
+.social p {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+}
+
+.social a {
+    color: #ffffff;
+    text-decoration: none;
+}
